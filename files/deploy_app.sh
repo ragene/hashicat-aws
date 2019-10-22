@@ -12,7 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="https://media.giphy.com/media/3tEZt8tEbJizZMgFg4/giphy.gif"></img></center>
   <center><h2>WTF!!!!!</h2></center>
 
-  Welcome to ${PREFIX}'s app. Jaaaaaaaa!
+  Welcome to ${PREFIX}'s app. Jaaa!
   <!-- END -->
   
   </div>
