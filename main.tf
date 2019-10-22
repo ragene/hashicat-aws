@@ -1,6 +1,6 @@
 module "ecs-fargate" {
   source                       = "app.terraform.io/rdixon-sbx-disfox/ecs-fargate/aws"
-  version                      = "2.0.4"
+  version                      = "2.0.5"
   name_preffix                 = "${var.prefix}"
   profile                      = "aws_profile"
   region                       = "${var.region}"
